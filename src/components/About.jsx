@@ -24,14 +24,14 @@ const About = () => {
 
         <br />
 
-        <p className="text-xl">
+        {/* <p className="text-xl">
           I'm a McMaster University student pursuing software engineering and an
           active member of my school's EcoCar engineering team. My primary
           interests lie in data science applications in finance. When I'm not
           studying or collaborating on projects, I like to spend time with
           family, watch boxing, and go on bike rides. My favorite read is
           "Meditations" by Marcus Aurelius.
-        </p>
+        </p> */}
       </div>
     </div>
   );
