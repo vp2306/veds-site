@@ -67,9 +67,7 @@ const NavBar = () => {
                 smooth
                 duration={900}
               >
-                <Link to={link} smooth duration={500}>
-                  {link}
-                </Link>
+                {link}
               </Link>
             </li>
           ))}
