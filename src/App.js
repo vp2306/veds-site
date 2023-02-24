@@ -1,5 +1,3 @@
-import { useRef } from "react";
-
 import About from "./components/About";
 import ContactMe from "./components/ContactMe";
 import Home from "./components/Home";
